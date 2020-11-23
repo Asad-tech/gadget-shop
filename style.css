@@ -1,0 +1,49 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.detail{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.picture{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.btn{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.container h6{
+    color: rgb(248, 190, 42);
+}
+.see h4{
+    margin-bottom: 40px;
+}
+.card{
+    box-shadow: 10px 10px 20px gray ;
+}
+.laptop{
+    margin-top: 90px;
+}
+.lap h4{
+    text-decoration: underline;
+    text-decoration-color: rgb(235, 16, 198);
+    text-align: center;
+}
+.same img{
+    height: 100px;
+    width: 100px;
+    border: 2px solid gray;
+    box-shadow: 0 0  10px gray;
+    margin-bottom: 10px;
+    
+     
+}
+.not img{
+    position: relative;
+    top: 40px;
+}
